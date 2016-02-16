@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./fasticonsularesa00rela_0814.png"; bbox 0 0 1586 2944; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 259 109 1210 540">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 259 109 1210 540">
+     <span class='ocr_line' id='line_1_1' title="bbox 441 109 1210 178; baseline -0.009 -6"><span class='ocrx_word' id='word_1_1' title='bbox 441 118 672 173; x_wconf 64' lang='lat' dir='ltr'>FAMA</span> <span class='ocrx_word' id='word_1_2' title='bbox 708 109 868 166; x_wconf 67' lang='lat' dir='ltr'><strong>Cous</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 884 119 1068 168; x_wconf 72' lang='lat' dir='ltr'>vaM</span> <span class='ocrx_word' id='word_1_4' title='bbox 1102 109 1210 178; x_wconf 50' lang='lat' dir='ltr'>&amp;eq</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 820 253 907 324; baseline -0.011 1"><span class='ocrx_word' id='word_1_5' title='bbox 820 253 907 324; x_wconf 88' lang='lat' dir='ltr'>Z.</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 259 400 1072 540; baseline -0.014 -80"><span class='ocrx_word' id='word_1_6' title='bbox 259 419 528 540; x_wconf 74' lang='lat' dir='ltr'>zenone</span> <span class='ocrx_word' id='word_1_7' title='bbox 549 401 600 456; x_wconf 72' lang='grc' dir='ltr'>δε</span> <span class='ocrx_word' id='word_1_8' title='bbox 624 400 883 455; x_wconf 87' lang='lat' dir='ltr'>Martiano.</span> <span class='ocrx_word' id='word_1_9' title='bbox 951 402 1072 467; x_wconf 84' lang='lat'>648.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 263 474 1074 622">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 263 474 1074 622">
+     <span class='ocr_line' id='line_1_4' title="bbox 379 474 1074 542; baseline -0.014 -6"><span class='ocrx_word' id='word_1_10' title='bbox 379 483 584 536; x_wconf 85' lang='lat' dir='ltr'>Zenone</span> <span class='ocrx_word' id='word_1_11' title='bbox 607 497 662 531; x_wconf 87' lang='lat' dir='ltr'>A.</span> <span class='ocrx_word' id='word_1_12' title='bbox 687 474 889 532; x_wconf 68' lang='lat' dir='ltr'>11.‘cons.</span> <span class='ocrx_word' id='word_1_13' title='bbox 960 481 1074 542; x_wconf 84' lang='lat'><em>652.</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 263 555 836 622; baseline -0.017 -8"><span class='ocrx_word' id='word_1_14' title='bbox 263 559 464 614; x_wconf 86' lang='lat' dir='ltr'>Zenone</span> <span class='ocrx_word' id='word_1_15' title='bbox 487 572 539 610; x_wconf 78' lang='lat' dir='ltr'>A.</span> <span class='ocrx_word' id='word_1_16' title='bbox 565 556 693 610; x_wconf 86' lang='lat' dir='ltr'>cons.</span> <span class='ocrx_word' id='word_1_17' title='bbox 719 555 836 622; x_wconf 81' lang='lat'><em>655.</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 479 941 1145 1463">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 479 941 1145 1463">
+     <span class='ocr_line' id='line_1_6' title="bbox 479 941 1145 1463; baseline 0 1481"><span class='ocrx_word' id='word_1_18' title='bbox 479 941 1145 1463; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

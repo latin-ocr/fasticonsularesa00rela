@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./fasticonsularesa00rela_0833.png"; bbox 0 0 1546 2912; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 258 147 1410 248">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 258 147 1410 248">
+     <span class='ocr_line' id='line_1_1' title="bbox 258 147 1410 248; baseline -0.004 -25"><span class='ocrx_word' id='word_1_1' title='bbox 258 196 263 205; x_wconf 27' lang='grc' dir='ltr'><em>κ</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 353 147 988 225; x_wconf 61' lang='grc' dir='ltr'><em>ῬᾉετοκυΜ.</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 1158 246 1160 248; x_wconf 6' lang='lat' dir='ltr'>v</span> <span class='ocrx_word' id='word_1_4' title='bbox 1294 166 1410 248; x_wconf 63' lang='lat'><strong><em>&#39;⁷⁶73</em></strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 126 297 1138 447">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 126 297 1138 447">
+     <span class='ocr_line' id='line_1_2' title="bbox 126 297 1126 377; baseline 0 -16"><span class='ocrx_word' id='word_1_5' title='bbox 126 297 155 348; x_wconf 37' lang='grc' dir='ltr'><strong><em>Τ»</em></strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 225 307 310 366; x_wconf 64' lang='lat' dir='ltr'><strong><em>tw</em></strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 326 330 412 359; x_wconf 73' lang='grc' dir='ltr'><strong><em>απο</em></strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 474 327 556 365; x_wconf 79' lang='grc' dir='ltr'><strong><em>Ετη</em></strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 570 329 657 360; x_wconf 71' lang='lat' dir='ltr'><strong><em>mro</em></strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 696 328 892 361; x_wconf 72' lang='grc' dir='ltr'><strong><em>Επακτωι</em></strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 983 322 1126 377; x_wconf 56' lang='lat' dir='ltr'><strong><em>Tem-goa</em></strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 221 381 1138 447; baseline 0.005 -19"><span class='ocrx_word' id='word_1_12' title='bbox 221 381 404 439; x_wconf 60' lang='grc' dir='ltr'><strong><em>Ἀλεξᾶν</em></strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 495 399 634 444; x_wconf 75' lang='grc' dir='ltr'><strong>Λυγου</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 694 401 780 435; x_wconf 65' lang='lat' dir='ltr'><strong><em>nvos</em></strong></span> <span class='ocrx_word' id='word_1_15' title='bbox 815 383 917 446; x_wconf 66' lang='grc' dir='ltr'><strong><em>εμξι</em></strong></span> <span class='ocrx_word' id='word_1_16' title='bbox 961 385 1138 447; x_wconf 73' lang='grc' dir='ltr'><strong><em>ετηριδες</em></strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 201 448 1166 2700">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 201 448 1166 2700">
+     <span class='ocr_line' id='line_1_4' title="bbox 201 448 1166 2700; baseline 0 0"><span class='ocrx_word' id='word_1_17' title='bbox 201 448 1166 2700; x_wconf 95' lang='lat' dir='ltr'><strong><em> </em></strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
